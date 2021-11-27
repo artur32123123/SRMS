@@ -54,5 +54,6 @@ The source code is released under the [MIT License](https://github.com/RiajulKas
 ## Conclusion
 Thanks for reading this. At last **Don't forget to givee a star 🌟!!**
 
-##Автор 
+## Автор 
+
 Артур
