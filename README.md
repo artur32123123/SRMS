@@ -53,3 +53,6 @@ The project will be available at **127.0.0.1:8000**.
 The source code is released under the [MIT License](https://github.com/RiajulKashem/SRMS/blob/master/LICENSE).
 ## Conclusion
 Thanks for reading this. At last **Don't forget to givee a star 🌟!!**
+
+##Автор 
+Артур
