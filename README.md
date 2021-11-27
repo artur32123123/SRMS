@@ -1,58 +1,69 @@
-# SRMS
-Student Result Management System
+# CHVC
+
+Система управления результатами студентов
+
 
 [![Python Version](https://img.shields.io/badge/Python-3.7.1-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/Django-2.1-green.svg)](https://djangoproject.com)
 
-Student Result Management System is my first Django project!! It's single user application where user can CRUD (Create, Update, Delete) student, subject, subject combination and result. Then students can view there result and download this as PDF file. This project is live now in http://srms.riajul.me/ feel free to contribute this project.
 
-**I'm available for freelance hire contact me in [Facebook](https://web.facebook.com/riajul.kashem/) or riajukashem@gmail.com **
+Система управления результатами студентов - мой первый проект на Django !! Это однопользовательское приложение, в котором пользователь может CRUD (создать, обновить, удалить) ученика, предмет, комбинацию предметов и результат. Затем студенты могут просмотреть результат и загрузить его в виде файла PDF. Этот проект сейчас находится на http://srms.riajul.me/, не стесняйтесь вносить свой вклад в этот проект.
+
+Я могу нанять внештатного сотрудника, свяжитесь со мной через [emeli] ffilosssoff@gmail.com **
 
 ![Dashboard](Screenshots/dashboard.png "SRMS Dashboard")
 
-## Running the Project Locally
+## Запуск проекта локально
 
-First, clone the repository to your local machine:
+
+Сначала клонируйте репозиторий на свой локальный компьютер:
 
 ```bash
 git clone https://github.com/RiajulKashem/SRMS.git
 ```
-Now enter the directory:  
 
+Теперь войдите в каталог:
 ```bash
 cd SRMS
 ```
-Now create a virtual machine:  
+
+Теперь создайте виртуальную машину:
 ```bash
 virtualenv venv  
 source venv/bin/activate
 ```
-Install the requirements:
+
+Установите требования:
 
 ```bash
 pip install -r requirments.txt
 ```
 
-Apply the migrations:
+
+Примените миграции:
 
 ```bash
 python manage.py makemigrations
 python manage.py migrate
 ```
 
-Finally, run the development server:
+
+Наконец, запустите сервер разработки:
 
 ```bash
 python manage.py runserver
 ```
 
-The project will be available at **127.0.0.1:8000**.
 
-## License
+Проект будет доступен по адресу ** 127.0.0.1: 8000 **.
 
-The source code is released under the [MIT License](https://github.com/RiajulKashem/SRMS/blob/master/LICENSE).
-## Conclusion
-Thanks for reading this. At last **Don't forget to givee a star 🌟!!**
+## Лицензия
+
+
+Исходный код выпущен под [MIT License](https://github.com/RiajulKashem/SRMS/blob/master/LICENSE).
+## Заключение
+
+Спасибо, что прочитали это. Наконец-то ** Не забудьте поставить звездочку 🌟 !! **
 
 ## Автор 
 
